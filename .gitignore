@@ -1,0 +1,11 @@
+app.jar
+dist/
+/.idea/
+target/
+*.DS_Store
+dist
+node_modules
+package-lock.json
+build
+yarn.lock
+*.iml
